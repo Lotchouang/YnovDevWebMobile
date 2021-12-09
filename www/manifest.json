@@ -1,0 +1,13 @@
+{
+    "name": "My first pwa manga",
+    "short_name": "manga 2021",
+    "start_url": "./index.html",
+    "display": "standalone",
+    "icons": [ {
+      "src": "img/logos/144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }]
+
+  }
+  
